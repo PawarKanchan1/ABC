@@ -6,6 +6,10 @@ public class Demo
 	{
 		System.out.println("m1--method");
 	}
+	public void me()
+	{
+		System.out.println("m1--method");
+	}
 	public  static void main(String args[])
 	{
 		System.out.print("Hello");
