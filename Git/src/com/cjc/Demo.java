@@ -2,17 +2,18 @@ package com.cjc;
 
 public class Demo 
 {
-	public void me()
+	public void m1()
 	{
 		System.out.println("m1--method");
 	}
-	public void me()
+	public void m2()
 	{
-		System.out.println("m1--method");
+		System.out.println("m2--method");
 	}
 	public  static void main(String args[])
 	{
-		System.out.print("Hello");
+		System.out.println("Hello");
+		System.out.println("Hello Git");
 	}
 
 }
